@@ -19,3 +19,5 @@
 [![Blog](https://img.shields.io/website?label=luanpimenta.com&style=for-the-badge&url=https://luanpimenta.com/)](https://www.luanpimenta.com/)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanpimentadev/)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583999990675)
+
+## Sempre em estudo! 😉👋
