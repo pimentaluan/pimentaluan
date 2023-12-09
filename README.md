@@ -1,5 +1,5 @@
-### Olá, sou Luan Pimenta Fernandes 👨‍💻😎
-
+# Olá, sou Luan Pimenta Fernandes 👨‍💻😎
+### Sempre aprendendo! 😉👋
 ## Minhas tecnologias
 <div style="display: inline-block"><br/>
   <img aling="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,4 +20,3 @@
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanpimentadev/)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583999990675)
 
-## Sempre em estudo! 😉👋
