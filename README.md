@@ -11,8 +11,8 @@
 
 ## Meu Github
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=DCDCDC&bg_color=0d1117" alt="Luan Pimenta github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=compact&hide_border=true&title_color=&text_color=DCDCDC&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=0493FB" alt="Luan Pimenta github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0493FB" />
 </div>
 
 ## Minhas Redes
