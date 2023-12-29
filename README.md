@@ -17,8 +17,8 @@
 
 ## Meu Github
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=0493FB" alt="Luan Pimenta github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0493FB" />
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=0493FB" alt="Luan Pimenta github stats" /> 
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0493FB" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pimentaluan&bg_color=0493FB&color=FFFFFF&line=000000&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
