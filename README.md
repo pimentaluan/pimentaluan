@@ -13,6 +13,7 @@
 ## Novas tecnologias
 <div style="display: inline-block"><br/>
       <img aling="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
+      <img aling="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> 
 </div>
 
 ## Meu Github
