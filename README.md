@@ -22,7 +22,7 @@
   <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0493FB" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0493FB&color=FFFFFF&line=000000&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pimentaluan&bg_color=0493FB&color=FFFFFF&line=000000&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Minhas Redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/)
