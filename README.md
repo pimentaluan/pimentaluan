@@ -14,6 +14,7 @@
 ## Novas tecnologias
 <div style="display: inline-block"><br/>
       <img aling="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
+      <img aling="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
 </div>
 
 ## Meu Github
