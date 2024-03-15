@@ -1,5 +1,5 @@
 # Hi there, I'm Luan Pimenta 👨‍💻😎
-#### Always learning! 🫡
+#### Always learning! 😉👋
 ## Skills
 
 <div style="display: inline-block"><br/>
