@@ -20,9 +20,12 @@
 
 ## My Github
 <div align="center">  
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=0493FB" alt="Luan Pimenta github stats" /> 
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0493FB" />
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=006aff&bg_color=66000000" alt="Luan Pimenta github stats" /> 
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=006aff&text_color=006aff&bg_color=66000000" />
+  <img width="50%" height="255px" src="https://github-readme-streak-stats.herokuapp.com/?user=pimentaluan&theme=transparent&hide_border=true" />
 </div>
+
+
 
 ## My social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/)
