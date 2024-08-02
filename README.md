@@ -22,18 +22,16 @@
       <img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
 </div>
 
-## My Github
-<div align="center">  
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=006aff&bg_color=66000000" alt="Luan Pimenta github stats" /> 
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=006aff&text_color=006aff&bg_color=66000000" />
-  <img width="50%" height="255px" src="https://github-readme-streak-stats.herokuapp.com/?user=pimentaluan&theme=transparent&hide_border=true" />
-</div>
-
-
-
 ## My social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/)
 [![Blog](https://img.shields.io/website?label=luanpimenta.com&style=for-the-badge&url=https://luanpimenta.com/)](https://www.luanpimenta.com/)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanpimentadev/)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583999990675)
 
+
+## My Github
+<div align="center">  
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=006aff&bg_color=66000000" alt="Luan Pimenta github stats" /> 
+  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=006aff&text_color=006aff&bg_color=66000000" />
+  <img width="50%" height="255px" src="https://github-readme-streak-stats.herokuapp.com/?user=pimentaluan&theme=transparent&hide_border=true" />
+</div>
