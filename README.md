@@ -23,10 +23,19 @@
 </div>
 
 ## My social media
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/)
-[![Blog](https://img.shields.io/website?label=luanpimenta.com&style=for-the-badge&url=https://luanpimenta.com/)](https://www.luanpimenta.com/)
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanpimentadev/)
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583999990675)
+<a href="https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.luanpimenta.com/" target="_blank">
+  <img src="https://img.shields.io/website?label=luanpimenta.com&style=for-the-badge&url=https://luanpimenta.com/" alt="Blog">
+</a>
+<a href="https://www.instagram.com/luanpimentadev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://wa.me/5583999990675" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato">
+</a>
+
 
 
 ## My Github
