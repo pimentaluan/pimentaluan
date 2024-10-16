@@ -25,6 +25,10 @@
   </div>
 </div>
 
+## Currently Studying
+<div>
+  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor="white">
+</div>
 
 ## My social media
 <a href="https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/" target="_blank">
