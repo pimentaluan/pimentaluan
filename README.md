@@ -1,13 +1,14 @@
 # Hi there, I'm Luan Pimenta 👨‍💻😎
 #### Always learning! 😉👋
+I'm a developer passionate about backend and frontend technologies, currently diving into Java, PostgreSQL, and User Interaction Design. Always pushing my limits and learning new technologies!
+
 ## Skills
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <!-- Backend -->
   <div>
     <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
 
   <!-- Frontend -->
@@ -22,13 +23,16 @@
   <div>
     <img alt="git" src="https://img.shields.io/badge/GIT-f05639?style=for-the-badge&logo=git&logoColor=white">
     <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </div>
 </div>
 
 ## Currently Studying
 <div>
-  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor="white">
+  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
 
 ## My social media
 <a href="https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/" target="_blank">
