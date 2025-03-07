@@ -1,6 +1,6 @@
 # Hi there, I'm Luan Pimenta 👨‍💻😎
 #### Always learning! 😉👋
-I'm a developer passionate about backend and frontend technologies, currently diving into Java, PostgreSQL, and User Interaction Design. Always pushing my limits and learning new technologies!
+I'm a developer passionate about backend and frontend technologies, currently diving into SpringBoot, PostgreSQL, and User Interaction Design. Always pushing my limits and learning new technologies!
 
 ## Skills
 
