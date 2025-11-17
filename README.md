@@ -1,58 +1,146 @@
-# Hi there, I'm Luan Pimenta 👨‍💻😎
-#### Always learning! 😉👋
-I'm a developer passionate about backend and frontend technologies, currently diving into SpringBoot, PostgreSQL, and User Interaction Design. Always pushing my limits and learning new technologies!
-
-## Skills
-
-#### Backend
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<!-- HEADER COM ANIMAÇÃO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=00A8FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Luan+Pimenta+🚀;Full+Stack+Developer+in+Progress;Backend+%7C+Django+%7C+Spring+Boot;Always+Learning+%F0%9F%93%9A%F0%9F%92%BB">
 </p>
 
-#### Frontend
+---
+
+# 🌟 **Sobre mim**
+Sou um desenvolvedor **Full Stack em formação**, com foco forte em **backend com Python/Django e Java/Spring Boot**, mas também construindo interfaces web modernas e apps Android com Kotlin.
+
+---
+
+# ⚡ **Tech Stack Geral**
+
+### 🔥 **Backend**
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,postgres,mysql" />
 </p>
 
-#### Development Tools
+### 🎨 **Frontend**
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## Currently Studying
+### 📱 **Mobile**
 <p>
-  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-## My social media
-<a href="https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.luanpimenta.com/" target="_blank">
-  <img src="https://img.shields.io/website?label=luanpimenta.com&style=for-the-badge&url=https://luanpimenta.com/" alt="Blog">
-</a>
-<a href="https://www.instagram.com/luanpimentadev/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://wa.me/5583999990675" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+### 🛠️ **Dev Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" />
+</p>
+
+---
 
 
-## My Github
-<div align="center">  
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=006aff&bg_color=66000000" alt="Luan Pimenta github stats" /> 
-  <img width="49%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=donut&hide_border=true&title_color=006aff&text_color=006aff&bg_color=66000000" />
-  <img width="50%" height="255px" src="https://github-readme-streak-stats.herokuapp.com/?user=pimentaluan&theme=transparent&hide_border=true" />
+# 📚 **Atualmente Estudando**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20Patterns-SOLID-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-006400?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kotlin%20%2B%20Android-7F52FF?style=for-the-badge">
+</p>
+
+---
+
+# 🧾 **Outras tecnologias que já utilizei**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+> Estudadas na faculdade e em projetos acadêmicos
+---
+
+# 🎯 **Projetos em Destaque**
+
+<div align="center">
+
+<!-- CARD 1 -->
+<a href="https://github.com/pimentaluan/colegiplus" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pimentaluan&repo=colegiplus&theme=react&hide_border=false&border_color=00A8FF&bg_color=0d1117" width="45%">
+</a>
+
+<!-- CARD 2 -->
+<a href="https://github.com/pimentaluan/ifit-spring" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pimentaluan&repo=ifit-spring&theme=react&hide_border=false&border_color=00A8FF&bg_color=0d1117" width="45%">
+</a>
+
+<!-- CARD 3 -->
+<a href="https://github.com/pimentaluan/fastpet-JPA" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pimentaluan&repo=fastpet-JPA&theme=react&hide_border=false&border_color=00A8FF&bg_color=0d1117" width="45%">
+</a>
+
 </div>
+
+---
+
+# 🧩 **Certificado de Tecnologia**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60">
+      <br><b>Django & Django REST</b></br>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60">
+      <br><b>Spring Boot</b></br>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60">
+      <br><b>Kotlin + Android</b></br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# 📊 **GitHub Stats**
+
+<div align="center">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pimentaluan&show_icons=true&theme=react&hide_border=true">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentaluan&layout=compact&theme=react&hide_border=true">
+  <img width="60%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=pimentaluan&theme=react&hide_border=true">
+</div>
+
+---
+
+# 🔥 **Badges**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-%2300A8FF?style=for-the-badge&logo=serverless&logoColor=white">
+  <img src="https://img.shields.io/badge/Django%20Enthusiast-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot%20Lover-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20Developer-%237F52FF?style=for-the-badge&logo=android&logoColor=white">
+</p>
+
+---
+
+# 🌐 **Onde me encontrar**
+<p align="center">
+  <a href="https://www.linkedin.com/in/luan-pimenta-fernandes-ab027326a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.luanpimenta.com/">
+    <img src="https://img.shields.io/badge/Portfólio-006aff?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luanpimentadev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://wa.me/5583999990675">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
